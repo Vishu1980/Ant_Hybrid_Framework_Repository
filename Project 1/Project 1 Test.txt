@@ -1,1 +1,1 @@
-Test Hello 1
+%time%
